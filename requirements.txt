@@ -1,3 +1,4 @@
+torch
 numpy
 gym
 matplotlib
@@ -6,3 +7,5 @@ gym[atari]
 tensorflow-gpu
 keras
 ffmpeg
+torch
+torchvision
